@@ -1,0 +1,14 @@
+[
+  {
+    "user_story": "As a user, I want to log in securely so I can access my personalized dashboard.",
+    "deliverables": "Implement OAuth2 authentication flow. Develop secure session management. Create responsive login/signup UI."
+  },
+  {
+    "user_story": "As an admin, I want to manage user accounts so I can control access and permissions.",
+    "deliverables": "Build user management dashboard. Implement CRUD operations for user profiles. Add role-based access control (RBAC)."
+  },
+  {
+    "user_story": "As a customer, I want to view my order history so I can track past purchases.",
+    "deliverables": "Develop 'My Orders' section in the user portal. Integrate with backend order database. Display order details with status."
+  }
+]
